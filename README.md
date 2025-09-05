@@ -57,7 +57,7 @@ To run this application on your own machine, follow the steps below.
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/OYanEnrique/imersao-dados-python-alura.git
-    cd your-repository-name
+    cd imersao-dados-python-alura
     ```
 
 2.  **(Optional but Recommended) Create a virtual environment:**
